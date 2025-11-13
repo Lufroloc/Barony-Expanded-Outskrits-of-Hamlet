@@ -2,7 +2,6 @@ Barony Expanded: Outskirts of Hamlet
 
 Purpose: This mod expands upon the starting zone in the video game Barony, by Turning Wheel Games
 
-
 - - Closed beta notes - -
 
 

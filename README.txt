@@ -5,8 +5,6 @@ Purpose: This mod expands upon the starting zone in the video game Barony, by Tu
 - - Closed beta notes - -
 
 
-- !IMPORTANT! Since the halloween event is currently in progress, to avoid issues, please go to settings > Online > Festive Content > set to off
-- If you want to keep your config, you can copy paste it from the normal client from (root/config/config.json) to the same folder in the mod.
 - Some features may be incomplete or missing.
 - Expect some Z-fighting
 - After reaching the mine, feel free to keep playing to test the balance.
@@ -24,16 +22,9 @@ Purpose: This mod expands upon the starting zone in the video game Barony, by Tu
 - - Installation instructions - -
 
 
-1. Copy/paste your vanilla barony folder and all of its contents to any directory
-2. Unpack all files from this archive into it, replace all files.
-3. Disable steam cloud for Barony if it's activated
-4. Run barony.exe from the new folder
-(OPTIONAL BUT RECOMMENDED: Go to settings > Online > Festive Content > set to off)
-5. Play
-
-
-- - Changelog for current version - -
-
-
-- Fixed: Crashing when attacking an enemy
-- Fixed: Placed a missing ceiling tile in the Gateway area
+1. Create a new folder anywhere (Next to your game installation is a good option)
+2. Copy/paste the contents of your vanilla barony folder to it
+3. Unpack all files from this archive into it, replace all files
+4. Disable steam cloud for Barony if it's activated
+5. Run barony.exe from the new folder
+6. Play

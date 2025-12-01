@@ -3246,8 +3246,11 @@ last of your magic is drained!#
  ...#
 
 # Custom NPC Dialogue
-2850 type:rand#
-2851 %s Response 1.#
+2850 type:seq#
+2851 %s
+ You found a secret NPC! :D#
+2852 %s
+ Placeholder dialogue.#
 
 2860 type:rand#
 2861 %s Response 1.#
@@ -3264,13 +3267,13 @@ I'm...free? I thank you! You have my deepest gratitude!#
 2874 %s
  The brunt of The Chruch and The Magicians' Guild, seemingly more in the know than the rest of us, promptly left for the mine, aiming to crush the surrounding corruption from it's source.#
 2875 %s
- Not much time passed before we had lost control of the outskirts. The ravageing of the residental district soon followed. Everyone who managed to escape hid within the core of town - the market district.
+ Not much time passed before we had lost control of the outskirts. The ravaging of the residental district soon followed. Everyone who managed to escape hid within the core of town - the market district.
  We were cut off from the outside world. While the gates and dense trees served as adequate protection against claw and mace, it was all made of timber. We were bound to lose eventually.#
 2876 %s
  One day, the monsters mounted an assault, goblins outfitted with fire staves leading the charge. Both gates were burnt to a crisp before we had a chance to assess the situation. 
  We held out well, we did. However, there were too many of them to handle. Hundreds of them, against what was left of the guard, and a hundred-something ill-prepared men and women. It was the curse of that damned Baron Herx that lead to our demise.#
 2877 %s
- The lucky few who did not get torched on sight in the ensueing chaos were caught and brought to god knows where. I saw a larger group head for the old mansion to escape through the back. Some promised to break the curse and come back for us.
+ The lucky few who did not get torched on sight in the ensuing chaos were caught and brought to god knows where. I saw a larger group head for the old mansion to escape through the back. Some promised to break the curse and come back for us.
  I wonder what fate befell them?...
  Ah- more importantly, I was brought here by a pack of goblins - to this cell meant for thieves and smugglers. After succeeding in their quest, they settled down here and forced me to maintain their arms and armor.#
 2878 %s
@@ -3278,7 +3281,7 @@ I'm...free? I thank you! You have my deepest gratitude!#
  You are going to try and break the curse? I see... I wish you the best of luck. If you happen upon any survivors, please assist them! Oh- and be sure to check around the tent by the campfire, there may be something of value to you.#
 2879 %s
  Me? I am wasting away... They kept me on the verge of starvation. You would not mind if I ate that last morsel of theirs, would you? Haha... I need time to rebuild my muscles before I dare leave the checkpoint.
- Perhaps I will clean this place up a bit and stay here while i search for other survivors. Why don't you stop for a bit to recouperate? I could use the company. I have not seen another human for god knows how long...#
+ Perhaps I will clean this place up a bit and stay here while I search for other survivors. Why don't you stop for a bit to recouperate? I could use the company. I have not seen another human for god knows how long...#
 # 2900 - 2949 More effects text:
 2900 Bluh, this potion was cursed!#
 2901 You feel heavier...#

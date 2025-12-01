@@ -31,7 +31,7 @@
 			"sign": [
 				"Welcome to...",
 				"$",
-				"(Closed beta)"
+				"Closed Beta 1.1"
 			],
 			"attributes": {
 				"font": "fonts/pixel_maz_multiline.ttf#24#3",
@@ -172,14 +172,16 @@
 		},
 		"intro_hub_info": {
 			"sign": [
-				"    Current version: Closed Test 1.0",
+				"    Current version: Closed Beta 1.1",
 				"",
 				"    Latest changes: ",
-				"     * Added 'Mnemonic Abyss' hub area",
-				"     * Added a new boss fight",
-				"     - Added new encounters",
-				"     * Heavily shaped multiple areas",
-				"     * Added a new secret area",
+				"     * Overhauled Lake Ordo",
+				"     * Overhauled Skeleton Encounter",
+				"     * Removed some foliage from spawn",
+				"     * Many bugfixes",
+				"",
+				"     Check changelog in mod dir",
+				"     or on github for full changelog.",
 				""
 			],
 			"attributes": {
@@ -201,13 +203,13 @@
 				"   Thank you for participating in",
 				"   the Closed Beta!",
 				"",
-				"   - Some features may be incomplete",
-				"   or missing.",
-				"   - Expect some Z-fighting",
-				"   - After playtesting, please",
-				"     msg me your feedback afterwards",
+				"   The first big update is out!",
+				"   Thanks to your help, many, if not all",
+				"   bugs have been fixed from the",
+				"   previous version.",
 				"",
-				"     -Lufroloc"
+				"   All feedback has been taken note of",
+				"   and will be considered moving forward."
 			],
 			"attributes": {
 				"font": "fonts/pixel_maz_multiline.ttf#16#1",

@@ -482,3 +482,11 @@ images/BE/tiles/Animated/StarrySky5.png
 images/BE/tiles/Animated/StarrySky6.png
 images/BE/tiles/Animated/StarrySky7.png
 images/BE/tiles/Animated/StarrySky8.png
+images/BE/tiles/Animated/walkwtr1.png
+images/BE/tiles/Animated/walkwtr2.png
+images/BE/tiles/Animated/walkwtr3.png
+images/BE/tiles/Animated/walkwtr4.png
+images/BE/tiles/Animated/walkwtr5.png
+images/BE/tiles/Animated/walkwtr6.png
+images/BE/tiles/Animated/walkwtr7.png
+images/BE/tiles/Animated/walkwtr8.png

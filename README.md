@@ -7,6 +7,7 @@
 # Table of Contents
 
 - [Introduction](#Introduction)
+  - [Screenshots](#Screenshots)
 - [Instructions](#Instructions)
   - [Downloading](#Downloading)
   - [Installation](#Installation)
@@ -16,9 +17,10 @@
 
 # Introduction
 
-![20251111225845_1](https://github.com/user-attachments/assets/c950d3b1-1b8d-41cf-9193-4c92ceed7f6a)
+This mod expands upon the starting zone in the video game Barony, by Turning Wheel Games
 
-Purpose: This mod expands upon the starting zone in the video game Barony, by Turning Wheel Games
+<img width="1920" height="1032" alt="Screenshot1" src="https://github.com/user-attachments/assets/b5b19006-f15e-4916-aebd-2d563ebc744f" />
+
 
 <p align="center"><h2>Closed Beta Notes</h2></p>
 
@@ -28,6 +30,10 @@ Purpose: This mod expands upon the starting zone in the video game Barony, by Tu
 - After reaching the mine, feel free to keep playing to test the balance.
   Please msg me your feedback on discord afterwards. Any feedback is welcome!
 - If a festive event is in progress, it may cause some thematic issues. Please go to settings > Online > Festive Content > set to off
+
+## Screenshots
+![20251111225845_1](https://github.com/user-attachments/assets/c950d3b1-1b8d-41cf-9193-4c92ceed7f6a)
+<img width="1920" height="1029" alt="Screenshot2" src="https://github.com/user-attachments/assets/50256827-7ba6-41fe-95c6-bca1f6fa14a3" />
 
 # Instructions
 

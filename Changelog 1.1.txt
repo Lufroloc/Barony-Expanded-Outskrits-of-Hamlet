@@ -21,7 +21,7 @@ Fixes:
 	-Temporarily removed some huge models that were causing this issue
 - Fixed Text color for items on the ground being broken, frames for action glyphs beside hotbar HUD not loading
 - Fixed misplaced collision by the path to Hunters' guild
-- Fixed exploit: The hatch behind the gate in the cave maze being interactable with through the bars by right-clicking on it with the inventory open
+- Fixed exploit: The hatch behind the gate in the cave maze being interactable with through the bars by right-clicking on it with the inventory open (Thanks solidius!)
 - Fixed bridge to Hjalmar's Hill being too high up, causing dropped item to sink into it
 - Fixed some breakables with improper displaynames
 - Fixed hint in the intro hub giving incorrect instructions

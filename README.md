@@ -13,7 +13,7 @@
   - [Installation](#Installation)
   - [Gameplay](#Gameplay)
 - [Changelog](#Changelog)
-- Roadmap
+- [Roadmap](#Roadmap)
 
 # Introduction
 
@@ -87,4 +87,6 @@ Fixes:
 - Fixed some breakables with improper displaynames
 - Fixed hint in the intro hub giving incorrect instructions
 
+# Roadmap
 
+The roadmap/general to-do list can be found [here.](https://trello.com/b/XyCRS31X/barony-expanded-outskirts-of-hamlet)
